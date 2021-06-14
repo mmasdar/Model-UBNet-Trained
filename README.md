@@ -33,6 +33,11 @@ There are 2 architectural models designed by UBNet for the purposes of X-ray ima
       img3.jpeg
     class/2
       img4.jpeg
+  test/
+    class1/
+      img3.jpeg
+    class/2
+      img4.jpeg
 ```
 
 # Trained Model
