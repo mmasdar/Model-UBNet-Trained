@@ -6,6 +6,9 @@ There are 2 architectural models designed by UBNet for the purposes of X-ray ima
 - UBNet v2
 
 
+## Demonstration GUI UBNet
+![alt text](https://github.com/mmasdar/Model-UBNet-Trained/blob/main/Demonstrasi%20UBNet%20GUI.gif)
+
 ## Installation
 
 ### Requirements
