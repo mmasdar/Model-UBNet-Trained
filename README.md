@@ -55,5 +55,6 @@ There are 2 architectural models designed by UBNet for the purposes of X-ray ima
 
 GoogleDrive : https://drive.google.com/drive/folders/10PZ2JS_FPcVwowCNAp_ITZY4YkBVT0xZ?usp=sharing
 
-```
+## Reference
+https://pubmed.ncbi.nlm.nih.gov/34864714/
 
