@@ -1,5 +1,7 @@
 # Model-UBNet
-UBNet architectural model for X-ray image classification of pneumonia and Covid-19 patients 
+UBNet architectural model for X-ray image classification of pneumonia and Covid-19 patients. We also build Chest X-ray analysis system based on PyQt for diagnose Covid-19 patient using UBNet architecture.
+
+![alt text](https://github.com/mmasdar/Model-UBNet-Trained/blob/main/Desain%20Guest%20Lecture%20FKUB.png)
 
 There are 2 architectural models designed by UBNet for the purposes of X-ray image classification:
 - UBNet v1
@@ -55,6 +57,6 @@ There are 2 architectural models designed by UBNet for the purposes of X-ray ima
 
 GoogleDrive : https://drive.google.com/drive/folders/10PZ2JS_FPcVwowCNAp_ITZY4YkBVT0xZ?usp=sharing
 
-## Reference
+## Original Paper
 https://pubmed.ncbi.nlm.nih.gov/34864714/
 
