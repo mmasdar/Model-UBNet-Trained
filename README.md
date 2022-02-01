@@ -1,9 +1,17 @@
-# Model-UBNet-Trained
+# Model-UBNet
 UBNet architectural model for X-ray image classification of pneumonia and Covid-19 patients 
 
 There are 2 architectural models designed by UBNet for the purposes of X-ray image classification:
 - UBNet v1
 - UBNet v2
+
+### Architecture Design of UBNet v1
+![alt text](https://github.com/mmasdar/Model-UBNet-Trained/blob/main/UBNet%20v1.png)
+
+
+### Architecture Design of UBNet v2
+![alt text](https://github.com/mmasdar/Model-UBNet-Trained/blob/main/UBNet%20v2.png)
+
 
 
 ## Demonstration GUI UBNet
